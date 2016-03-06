@@ -1,0 +1,9 @@
+[submodule "ansible/roles/mesos"]
+	path = ansible/roles/mesos
+	url = git@github.com:oglu/ansible-mesos.git
+[submodule "ansible/roles/zookeeper"]
+	path = ansible/roles/zookeeper
+	url = git@github.com:oglu/ansible-zookeeper.git
+[submodule "ansible/roles/java"]
+	path = ansible/roles/java
+	url = git@github.com:AnsibleShipyard/ansible-java.git
